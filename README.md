@@ -19,7 +19,7 @@
 
 ### Gerenciamento de arquivos
 
-- [ ] Crie uma rota para upload de arquivos que cadastra em uma tabela o caminho e nome do arquivo e retorna todos dados do arquivo cadastrado.
+- [x] Crie uma rota para upload de arquivos que cadastra em uma tabela o caminho e nome do arquivo e retorna todos dados do arquivo cadastrado.
 
 ### Gerenciamento de meetups
 
